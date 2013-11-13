@@ -9,5 +9,80 @@
  * compiled file, but it's generally better to create a new file per style scope.
  *
  *= require_self
- *= require_tree .
  */
+
+h1 {
+	font-family: helvetica;
+	font-weight: 100;
+	font-size: 3em;
+	color: white;
+	text-shadow: 0px 2px 2px #EB3618;
+	text-align: center;
+	padding-top: 50px;
+}
+
+h2 {
+	font-size: 18px;
+	font-family: helvetica;
+}
+
+li {
+	font-family: helvetica;
+	font-size: 12px;
+}
+
+table {
+	margin-left: 490px;
+	margin-right: auto;
+	width: 50%;
+	text-align: left;
+	color: white;
+	text-shadow: 0px 1px 1px #EB3618;
+	font-family: helvetica;
+	font-size: 1em;
+}
+
+.field {
+	text-align: center;
+	padding-top: 20px;
+	font-family: helvetica;
+	font-size: 1em;
+	color: white;
+	text-shadow: 0px 1px 1px #EB3618;
+}
+
+.button {
+	color: #bbbbbb;
+	width: 200px;
+	height: 100px;
+}
+
+#new_user {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body {
+	background-color: #F48147;
+	background-image: url(http://3.bp.blogspot.com/-9G4U9a4qrMs/TxjZKAAQCVI/AAAAAAAABsE/xBojg5pTUEo/s1600/walking-man-black-hi.png);
+	background-repeat: no-repeat;
+}
+
+p {
+	padding-top: 10px;
+	text-align: left;
+	margin-left: 600px;
+	color: white;
+	text-shadow: 0px 1px 1px #EB3618;
+	font-family: helvetica;
+	font-size: 1em;
+}
+
+a {
+	color: #272822;
+	text-align: center;
+}
+
+.actions {
+	text-align: center;
+}
