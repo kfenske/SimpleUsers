@@ -85,4 +85,21 @@ a {
 
 .actions {
 	text-align: center;
+	padding: 20px;
+}
+
+.FooterLink {
+	margin-left: 495px;
+}
+
+.EditLink {
+	margin-left: 600px;
+}
+
+.BackLink {
+	margin-left: 660px;
+}
+
+.ShowLink {
+	margin-left: 635px;
 }
