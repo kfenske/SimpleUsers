@@ -66,6 +66,7 @@ body {
 	background-color: #F48147;
 	background-image: url(http://3.bp.blogspot.com/-9G4U9a4qrMs/TxjZKAAQCVI/AAAAAAAABsE/xBojg5pTUEo/s1600/walking-man-black-hi.png);
 	background-repeat: no-repeat;
+	font-family: helvetica;
 }
 
 p {
@@ -81,6 +82,7 @@ p {
 a {
 	color: #272822;
 	text-align: center;
+	font-family: helvetica;
 }
 
 .actions {
